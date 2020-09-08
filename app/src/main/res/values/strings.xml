@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">homework1</string>
+    <string name="app_name">smart vote</string>
     <string name="count">Count Down To Election Day</string>
     <string name="days">Days</string>
     <string name="hours">Hours</string>
